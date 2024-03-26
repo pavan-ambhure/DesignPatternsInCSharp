@@ -7,4 +7,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Factory\" />
+    <None Remove="Factory\Ex1\" />
+    <None Remove="Factory\Ex2\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Factory\" />
+    <Folder Include="Factory\Ex1\" />
+    <Folder Include="Factory\Ex2\" />
+  </ItemGroup>
 </Project>
