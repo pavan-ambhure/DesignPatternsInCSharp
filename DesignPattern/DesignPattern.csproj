@@ -11,10 +11,16 @@
     <None Remove="Factory\" />
     <None Remove="Factory\Ex1\" />
     <None Remove="Factory\Ex2\" />
+    <None Remove="AbstractFactory\" />
+    <None Remove="AbstractFactory\Ex1\" />
+    <None Remove="AbstractFactory\Ex2\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
     <Folder Include="Factory\Ex1\" />
     <Folder Include="Factory\Ex2\" />
+    <Folder Include="AbstractFactory\" />
+    <Folder Include="AbstractFactory\Ex1\" />
+    <Folder Include="AbstractFactory\Ex2\" />
   </ItemGroup>
 </Project>
