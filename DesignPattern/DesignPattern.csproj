@@ -14,6 +14,9 @@
     <None Remove="AbstractFactory\" />
     <None Remove="AbstractFactory\Ex1\" />
     <None Remove="AbstractFactory\Ex2\" />
+    <None Remove="Builder\" />
+    <None Remove="FluentDesignPattern\" />
+    <None Remove="PrototypeDesignPattern\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -22,5 +25,8 @@
     <Folder Include="AbstractFactory\" />
     <Folder Include="AbstractFactory\Ex1\" />
     <Folder Include="AbstractFactory\Ex2\" />
+    <Folder Include="Builder\" />
+    <Folder Include="FluentDesignPattern\" />
+    <Folder Include="PrototypeDesignPattern\" />
   </ItemGroup>
 </Project>
