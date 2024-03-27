@@ -8,6 +8,7 @@ namespace DesignPattern.PrototypeDesignPattern
         public string Type { get; set; }
         public abstract Employee GetClone();
         public abstract void ShowDetails();
+
     }
 }
 
