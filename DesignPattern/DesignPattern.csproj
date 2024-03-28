@@ -20,6 +20,8 @@
     <None Remove="Adapter\" />
     <None Remove="Decorator\" />
     <None Remove="Bridge\" />
+    <None Remove="Composite\" />
+    <None Remove="Flyweighht\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -34,5 +36,7 @@
     <Folder Include="Adapter\" />
     <Folder Include="Decorator\" />
     <Folder Include="Bridge\" />
+    <Folder Include="Composite\" />
+    <Folder Include="Flyweighht\" />
   </ItemGroup>
 </Project>
