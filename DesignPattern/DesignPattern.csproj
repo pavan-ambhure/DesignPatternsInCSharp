@@ -18,6 +18,7 @@
     <None Remove="FluentDesignPattern\" />
     <None Remove="PrototypeDesignPattern\" />
     <None Remove="Adapter\" />
+    <None Remove="Decorator\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -30,5 +31,6 @@
     <Folder Include="FluentDesignPattern\" />
     <Folder Include="PrototypeDesignPattern\" />
     <Folder Include="Adapter\" />
+    <Folder Include="Decorator\" />
   </ItemGroup>
 </Project>
