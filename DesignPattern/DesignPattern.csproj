@@ -22,6 +22,7 @@
     <None Remove="Bridge\" />
     <None Remove="Composite\" />
     <None Remove="Flyweighht\" />
+    <None Remove="Proxy\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -38,5 +39,6 @@
     <Folder Include="Bridge\" />
     <Folder Include="Composite\" />
     <Folder Include="Flyweighht\" />
+    <Folder Include="Proxy\" />
   </ItemGroup>
 </Project>
