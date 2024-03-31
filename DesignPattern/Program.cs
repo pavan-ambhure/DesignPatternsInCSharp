@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using DesignPattern.Decorator;
+using DesignPattern.Observer;
 Console.WriteLine("Hello, World!");
-Driver.CallDecorator();
+Driver.Call();

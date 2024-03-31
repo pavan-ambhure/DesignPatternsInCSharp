@@ -24,6 +24,7 @@
     <None Remove="Flyweighht\" />
     <None Remove="Proxy\" />
     <None Remove="Iterator\" />
+    <None Remove="Observer\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -42,5 +43,6 @@
     <Folder Include="Flyweighht\" />
     <Folder Include="Proxy\" />
     <Folder Include="Iterator\" />
+    <Folder Include="Observer\" />
   </ItemGroup>
 </Project>
