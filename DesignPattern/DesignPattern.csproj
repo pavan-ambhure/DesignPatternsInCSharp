@@ -27,6 +27,7 @@
     <None Remove="Observer\" />
     <None Remove="Chain_Of_Responsibility\" />
     <None Remove="State\" />
+    <None Remove="Template\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -48,5 +49,6 @@
     <Folder Include="Observer\" />
     <Folder Include="Chain_Of_Responsibility\" />
     <Folder Include="State\" />
+    <Folder Include="Template\" />
   </ItemGroup>
 </Project>
