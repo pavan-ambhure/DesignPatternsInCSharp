@@ -28,6 +28,7 @@
     <None Remove="Chain_Of_Responsibility\" />
     <None Remove="State\" />
     <None Remove="Template\" />
+    <None Remove="Command\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -50,5 +51,6 @@
     <Folder Include="Chain_Of_Responsibility\" />
     <Folder Include="State\" />
     <Folder Include="Template\" />
+    <Folder Include="Command\" />
   </ItemGroup>
 </Project>
