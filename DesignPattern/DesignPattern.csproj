@@ -25,6 +25,7 @@
     <None Remove="Proxy\" />
     <None Remove="Iterator\" />
     <None Remove="Observer\" />
+    <None Remove="Chain_Of_Responsibility\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Factory\" />
@@ -44,5 +45,6 @@
     <Folder Include="Proxy\" />
     <Folder Include="Iterator\" />
     <Folder Include="Observer\" />
+    <Folder Include="Chain_Of_Responsibility\" />
   </ItemGroup>
 </Project>
